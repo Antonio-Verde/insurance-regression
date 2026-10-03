@@ -2,8 +2,6 @@
 
 A regression analysis of individual medical insurance charges, exploring which demographic and behavioral factors drive healthcare costs and by how much.
 
-> Original title: *Spese mediche e fattori di rischio: analisi di regressione del dataset insurance.csv*
-
 ## Overview
 
 This project models annual medical insurance charges using the well-known `insurance.csv` dataset (1,338 observations, introduced by Brett Lantz in *Machine Learning with R* and widely used on Kaggle). The goal is not just predictive accuracy but interpretability: the analysis is built step by step, from single-predictor regressions to a final model whose coefficients can be read and explained, and it is validated with a full diagnostic pass rather than taken at face value.
